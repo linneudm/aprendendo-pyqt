@@ -1,0 +1,2 @@
+# aprendendo-pyqt
+Aprendendo PyQt
